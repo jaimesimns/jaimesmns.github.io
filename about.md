@@ -16,7 +16,7 @@ Assistant Curator - Earth Sciences Museum, Science Museum and Galleries - https:
 
 Interpreter - THEMUSEUM - https://themuseum.ca/about/staff/
 
-Historical Interpreter - Waterloo Region Museum, Doon Heritage Village
+Historical Teacher/Interpreter - Ken Seiling Waterloo Region Museum, Doon Heritage Village
 
 
 ### Contact me
