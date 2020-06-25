@@ -10,6 +10,15 @@ Hi! My name is Jaime, and I'm an M.A. Candidate in Public History at Carleton Un
 
 My research interests focus on virtual reality and archaeology, public history, soundscapes, site-specific practice, exhibit curation, and museum education, accessibility, and interactivity.
 
+### Previous Positions
+
+Assistant Curator - Earth Sciences Museum, Science Museum and Galleries - https://uwaterloo.ca/earth-sciences-museum/people-profiles/jaime-simons
+
+Interpreter - THEMUSEUM - https://themuseum.ca/about/staff/
+
+Historical Interpreter - Waterloo Region Museum, Doon Heritage Village
+
+
 ### Contact me
 
 [jaime.simons@carleton.ca](mailto:jaime.simons@carleton.ca)
