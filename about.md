@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Jaime, and I'm an M.A. Candidate in Public History at Carleton University. This website is meant as an open notebook/blog for my public-facing academic work and projects. It may also include some random writing as I try to figure out GitHub.
+Hi! My name is Jaime, and I'm an M.A. Candidate in Public History and Digital Humanities at Carleton University. This website is meant as a blog for my public-facing academic work and projects. It may also include some random writing as I try to figure out GitHub.
 
 ### More Information
 
@@ -23,4 +23,4 @@ Field Technician - Archaeological Services, Inc.
 
 ### Contact me
 
-[jaime.simons@carleton.ca](mailto:jaime.simons@carleton.ca)
+[jaime.simons@cmail.carleton.ca](mailto:jaime.simons@cmail.carleton.ca)
