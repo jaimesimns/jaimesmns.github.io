@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm an M.A. Candidate in Public History and Digital Humanities at Carleton University. This website is meant as a blog for my public-facing academic work and projects. It may also include some random writing as I try to figure out GitHub.
+Hi! I'm an M.A. Candidate in Public History and Digital Humanities at Carleton University.
 
 ### More Information
 
